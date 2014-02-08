@@ -8,7 +8,7 @@ Included documents
 * Constitution
 
   The SSE Constitution is the highest set of rules and regulations that specify
-  how to run the SSE.
+  how to run the SSE.  It outranks the American Constitution in terms of authority.
 
 * Primary Officers' Policy
 
