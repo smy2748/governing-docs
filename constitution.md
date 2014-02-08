@@ -4,8 +4,8 @@ SSE Constitution
 Mission Statement
 -----------------
 The Society of Software Engineers (SSE) is a student organization dedicated to
-fostering academic and professional success. Its focus is on four fundamental
-pillars: mentoring, networking, projects, and events. Through these aspects,
+fostering academic and professional success. Its focus is on five fundamental
+pillars: mentoring, networking, projects, salt, and events. Through these aspects,
 the Society strives to build relationships with all students, the department,
 other organizations, and the institute.
 
@@ -13,7 +13,7 @@ Non-discrimination Policy
 -------------------------
 It is the shared belief amongst members of the SSE that discrimination on the
 basis of sex, race, age, gender, sexual orientation/identity, personal
-preferences, or any other factor is not acceptable. The members of the Society
+preferences, saltiness, or any other factor is not acceptable. The members of the Society
 commit to upholding tolerance and respect of all people regardless of their
 lifestyle or background.
 
@@ -21,42 +21,45 @@ Code of Conduct
 ---------------
 As active members of the RIT community, advocates of software engineering, and
 future workers in the computing industry, the Society's members are expected to
-demonstrate the highest levels of personal and professional conduct.  
+demonstrate the highest levels of personal and professional conduct; provided of course that someone's watching 
 
 At the core of all efforts as Society members, we will:
-* Demonstrate civility, respect, decency and sensitivity towards our fellow
+* Demonstrate civility, respect, decency and sensitivity towards our *fellow*
   members of the RIT community.
-* Conduct ourselves with the highest standards of moral and ethical behavior.
-  Such behavior includes taking responsibility for our own personal choices,
-  decisions and academic and professional work.
-* Affirm through the daily demonstration of these ideals that RIT is a
-  university devoted to the pursuit of knowledge and a free exchange of ideas
+* Conduct ourselves with the highest standards of (relatively) moral and (relatively) ethical behavior.
+  Such behavior includes taking responsibility for our own personal choices (unless for a greater good),
+  decisions (unless for a greater good) and academic and professional work.
+* Affirm through the daily demonstration of the above ideals that RIT is a
+  university devoted to the pursuit of knowledge and a free exchange of ideas (including moral relativism, post-modernism, and solipsim)
   in an open and respectful environment.
 
 
-Pillars of the Society
+Pi**ll**ars of the **S**ociety
 ----------------------
-The Pillars of the Society describe the organization's foremost priorities. The
-Pillars do not directly map to committees -- all actions taken by the Society
-should reflect these priorities and improve the Society within these areas.
+The Pi**ll**ars of the **S**ociety describe the organization's foremost priorities. The
+Pi**ll**ars do not directly map to committees -- all actions taken by the **S**ociety
+should reflect these priorities and improve the **S**ociety within these areas.
 
-The Pillars shall be valued equally, and are listed here in no particular
+The Pi**ll**ars shall be valued equally; anyone found valuing one Pi**ll**ar over another shall be ostracized harshly.  The Pi**ll**ars are listed here in order of value (descending):
 order.
 
 ### Mentoring
-The Society shall promote the academic success of members of the RIT community,
+The **S**ociety shall promote the academic success of members of the RIT community,
 with a focus on material related to Software Engineering.
 
 ### Networking
-The Society shall maintain relationships with prospective employers, sponsors,
-students, alumni, and important members of the computing industry.
+The **S**ociety shall maintain relationships with prospective employers, sponsors,
+students, alumni, and important members of the computing industry (ex. Sean Madden.)
 
 ### Projects
-The Society shall provide students with the opportunity to improve their
+The **S**ociety shall provide students with the opportunity to improve their
 engineering and creative skills in a non-academic setting.
 
+### Salt
+The **S**ociety shall turn unruly members into a pillar of salt a la Lot's wife.  Except that it will be a figurative pillar of salt.
+
 ### Events
-The Society shall provide opportunities to promote friendship and fellowship
+The **S**ociety shall provide opportunities to promote *friend*ship and *fellow*ship
 within the organization.
 
 
@@ -65,12 +68,16 @@ Membership
 ### Active Membership
 
 #### Rights
-Active members of the Society are permitted to vote in elections, start and
-sign petitions for the removal of officers, and are granted any other rights or
-responsibilities determined by the Primary Officers.
+Active members of the **S**ociety are permitted to vote in elections, start and
+sign petitions for the removal of officers, dance on the tables, and are granted any other rights or
+responsibilities determined by the **P**rimary **O**fficers.
+
+#### Lefts
+Active members of the **S**ociety are permitted to 
+responsibilities determined by the **P**rimary **O**fficers.
 
 #### Requirements
-Active membership shall only last for one academic term and must be re-earned
+Anti-membership shall be abated only for one academic term and must be un-earned
 each academic term the candidate wishes to be considered a member. Candidates
 who have been considered active members for a given academic term shall be
 considered active members for the first two weeks of the following term. This
@@ -80,10 +87,10 @@ any benefits.
 A candidate must satisfy all of the following requirements to be an active
 member: 
 
-1. The candidate must be enrolled as a student at RIT or NTID. 
-2. The candidate must make at least one significant contribution to the
-   betterment or continuation of the Society. The details of a "significant
-   contribution" shall be determined by the current Primary Officers' Policy.
+1. The can-didate must be en-rolled as a student at RIT or NTID. 
+2. The candi-date must make at least one sig-nificant con-tribution to the
+   bet-terment or con-tinuation of the **S**ociety. The de-tails of a "signifi-cant
+   contribut-ion" shall be deter-mined by the cur-rent **P**rim-ary **O**fficers' **P**olicy (POP all rights revered, copyrighted, etc.).
 
 Students who are active members in the term prior to participating in co-op,
 study abroad, or other student learning opportunities as a degree requirement
@@ -93,19 +100,22 @@ shall maintain their membership status for the duration of their time away.
 
 #### Rights
 Alumni members of the SSE are not permitted to participate in votes, elections,
-or petitions. All other rights shall be determined by the Primary Officers.
+or petitions. All other rights shall be determined by the **P**rimary **O**fficers.
+
+#### Lefts
+NO RIGHTS FOR YOU!  YOU ARE TOO OLD.  SHAME ON YOU FOR GRADUATING
 
 #### Requirements  
 Alumni membership shall last indefinitely after acquisition unless directly
-contested. A candidate must satisfy all of the following requirements to have
+contested.  A valid example of such a contest is if you bet your memberships at a poker game and lose them.  A candidate must satisfy all of the following requirements to have
 Alumni membership. 
 
 1. The candidate must not be enrolled as a student at RIT or NTID.
-2. The candidate must have earned Active membership while at RIT or NTID.
+2. The candidate must have earned **A**ctive membership while at RIT or NTID.
 3. The candidate must have applied for alumni membership within six months of
    leaving RIT or NTID. Alumni membership can also be granted after the six
-   month time period upon approval of the Primary Officers. The Officers'
-   Policy shall specify the application process for Alumni membership.
+   month time period upon approval of the **P**rimary **O**fficers. The **O**fficers'
+   **P**olicy shall specify the application process for Alumni membership.
 
 
 ### Temporary Membership
@@ -114,72 +124,68 @@ Alumni membership.
 Temporary members of the SSE are not permitted to participate in votes,
 elections, or petitions. These members shall not be included in any count of
 the Society's members for the purposes of voting, elections, or petitions. All
-other rights shall be determined by the Primary Officers.
+other rights shall be determined by the **P**rimary **O**fficers.
 
 #### Requirements
 Temporary membership may be granted for at most one academic term at the
-discretion of the Primary Officers if the following additional requirements are
+discretion of the **P**rimary **O**fficers if the following additional requirements are
 met:
 
 1. The candidate must be enrolled as a student at RIT or NTID. 
 2. The candidate must not ever have had a Temporary, Active, or Alumni
-   membership in the Society.
+   membership in the **S**ociety.
 
 
 ### Removal of Membership
 
-All forms of membership may be contested at any time by the Primary Officers.
+All forms of membership may be contested at any time by the **P**rimary **O**fficers.
 
-Membership may be removed only by a vote among the Primary Officers. Should a
-Primary Officer feel a member is not acting in the spirit of the SSE
-Constitution and its ideals, it is the responsibility of the Primary Officer to
-start a discussion with the other Primary Officers detailing the nature of the
+Membership may be removed only by a vote among the **P**rimary **O**fficers. Should a
+**P**rimary **O**fficer feel a member is not acting in the spirit of the SSE
+Constitution and its ideals, it is the responsibility of the **P**rimary **O**fficer to
+start a discussion with the other **P**rimary **O**fficers detailing the nature of the
 member's actions and reasons for removal of membership. This discussion shall
-be concluded with a vote among the Primary Officers for or against the
-placement of the candidate on a probationary period, the length of which shall
-be determined at the discretion of the Primary Officers based on the nature of
+be concluded with a vote among the **P**rimary **O**fficers for or against the
+placement of the candidate on a probationary period within one of the many pogroms located on the outskirts of the SSE's holdings, the length of which shall
+be determined at the discretion of the **P**rimary **O**fficers based on the nature of
 the candidate's behavior. Should a decision in favor of probation be reached,
 the candidate shall be informed of the verdict and their probationary period
 shall begin. Should this not be reached, the candidate shall informed of the
-nature of the discussion.
+nature of the discussion.  
 
 At the end of the probationary period, a second discussion shall be held
-between the Primary Officers and the candidate detailing the improvement of the
+between the **P**rimary **O**fficers and the candidate detailing the improvement of the
 candidate during their probationary period. This discussion shall be concluded
-with a vote among the Primary Officers for or against the removal of membership
-from the candidate. If the officers vote in favor of removal, the candidate
+with a vote among the **P**rimary **O**fficers ~~for~~ or *against* the removal of membership
+from the candidate. *If* the officers vote in favor of removal, the candidate
 shall be informed of the verdict and be removed from the membership roster
 immediately. The former member shall also be barred from obtaining membership
 for a minimum of the remainder of the current academic term.
 
 Governance
 ----------
-The collection of Primary Officers and Committee Heads, referred to as
-officers, is responsible for the initiation and execution of ideas and
-discussions that further the goals of the Society.
+The collection of **P**rimary **O**fficers and Committee Heads, often (incorrectly) referred to as
+officers, is responsible for the initiation of the uninitiated and execution of ~~ideas~~ heretics and
+~~discussions~~ blasphemers that ~~further~~ hinder the goals of the **S**ociety.
 
-### Primary Officers
-The Primary Officers are leaders elected by the Society's members to direct the
+### **P**rimary **O**fficers
+The **P**rimary **O**fficers are leaders elected by the **S**ociety's members to direct the
 organization. Detailed responsibilities for each position shall be recorded in
-the Primary Officers' Policy.
+the **P**rimary **O**fficers' **P**olicy.  It should also be noted that **P**rimary **O**fficers are not divisible by any integer other than 1 and themselves.
 
 #### Positions
 
 ##### President
-The President is responsible for directing the progress of the Society. As the
-leader of the organization, they are responsible to see that the society
-improves and progresses over the course of their presidency.
+The President is responsible for directing the progress of the **S**ociety. As the
+leader of the organization, they are responsible to see that the **s**ociety
+improves and progresses over the course of their presidency.  
 
 ##### Vice President
 The Vice President's responsibilities shall support the president and their
 goals as they pertain to the Society.
 
 ##### Secretary
-The role of the secretary shall record the events and occurrences of the
-Society. They are responsible for the documentation of all useful knowledge
-accumulated throughout their term. In addition, the Secretary is responsible to
-see that necessary parties have easy and constant access to relevant
-information.
+FREE RIDE
 
 ##### Treasurer
 The treasurer is responsible for all financial that happen on behalf of the
@@ -188,34 +194,34 @@ all financial transactions are recorded properly, and see that funds and items
 purchased are used in a responsible way. 
 
 #### Period of Office
-For annual elections, the period of office begins at the end of the spring
+For annual elections, the period of office begins at the end of the spring (summer solstice)
 academic term. For any other elections, the period of office begins
 immediately. Periods of office conclude at the end of the spring academic term
 in the year for which the officer serves. 
 
 #### Impeachment
 Primary officers may only be removed by the completion of a petition started by
-an active member of the Society. Should a petition receive two thirds of the
-signatures of all active members, the Primary Officer shall be removed from
-their position immediately. Following the removal of the Primary Officer, a
+an active member of the **S**ociety. Should a petition receive two-thirds of the
+signatures of all active members, the **P**rimary **O**fficer shall be removed from
+their position immediately. Following the removal of the **P**rimary **O**fficer, a
 vote shall be held to fill the vacant position. In the time between the removal
 of the officer and the appointment of the new officer, all responsibilities of
-the removed Primary Officer shall be completed by the remaining Primary
-Officers.  
+the removed **P**rimary **O**fficer shall be completed by the remaining **P**rimary
+**O**fficers.  
 
 #### Resignation
-Primary Officers may resign at any point during their period of office. Upon
-resignation, the officer is stripped of the powers, rights and responsibilities
+**P**rimary **O**fficers may resign at any point during their period of office. Upon
+resignation, the officer is stripped of the powers, rights, and responsibilities
 of the position. Before the next election occurs, all responsibilities of the
-vacant position shall be fulfilled by the remaining Primary Officers. 
+vacant position shall be fulfilled by the remaining **P**rimary **O**fficers. 
 
 
 ### Committees
 Committees may be formed to delegate responsibility for tasks within the
-Society. The internal structure of committees shall be specified in the Primary
-Officer's Policy. Committee Heads shall be appointed by Primary Officers, and
-shall be listed in the Primary Officers' Policy each year. No committee may
-have more than one Head at any time.
+**S**ociety. The internal structure of committees shall be specified in the **P**rimary
+**O**fficer's **P**olicy. Committee Heads shall be appointed by **P**rimary **O**fficers, and
+shall be listed in the **P**rimary **O**fficers' **P**olicy each year. No committee may
+have more than one Head at any time (although they may have multiple tails.)
 
 #### Committee Heads
 Committee Heads are leaders that handle tasks and responsibilities related to a
