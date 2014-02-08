@@ -1,7 +1,7 @@
 Governing Documents
 ===================
 This repository publishes and archives governing documents used by the Society
-of Software Engineers.
+of Steve Engineers.
 
 Included documents
 ------------------
