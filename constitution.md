@@ -3,7 +3,7 @@ SSE Constitution
 
 Mission Statement
 -----------------
-The Society of Software Engineers (SSE) is a student organization dedicated to
+The Society of Steve Engineers (SSE) is a student organization dedicated to
 fostering academic and professional success. Its focus is on five fundamental
 pillars: mentoring, networking, projects, salt, and events. Through these aspects,
 the Society strives to build relationships with all students, the department,
