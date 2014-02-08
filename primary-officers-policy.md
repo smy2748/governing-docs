@@ -4,7 +4,7 @@ SSE Primary Officers' Policy
 Introduction
 ------------
 The Primary Officers' Policy is a living document that chronicles the rules and
-procedures of the Society of Software Engineers. It is required by the SSE
+procedures of the Society of Steve Engineers. It is required by the SSE
 Constitution.
 
 Goals
@@ -47,7 +47,7 @@ Committees
 The SSE has 8 committees:
 
 ### Mentoring
-Head: Benjin Dubishar
+Head: Sean Madden (4 more years!)
 
 Goals:
 
@@ -60,7 +60,7 @@ Goals:
   methods and knowledge over information to a specific application
 
 ### Public Relations
-Head: Corban Mailloux
+Head: Henry Kissenger
 
 Goals:
 
@@ -70,7 +70,7 @@ Goals:
 * Make sure that all documents and events are well organized
 
 ### Technology
-Head: Dan Wallach
+Head: General Ludd
 
 Goals:
 
@@ -78,7 +78,7 @@ Goals:
 * Support projects and other technology needs within the Society
 
 ### Events
-Head: John Renner
+Head: Node.js
 
 Goals:
 
@@ -89,7 +89,7 @@ Goals:
 * Hold more smaller events
 
 ### Fundraising
-Head: Shayde Nofziger
+Head: Steve the cat
 
 Goals:
 
@@ -100,7 +100,7 @@ Goals:
 * Develop an organized process for purchasing and sales.
 
 ### Lab Upkeep
-Head: Steven Brunwasser
+Head: "Chuck" the friendly roomba
 
 Goals:
 
@@ -109,7 +109,7 @@ Goals:
 * Hold events to improve the aesthetics of the lab
 
 ### Projects
-Head: Michael Timbrook
+Head: Congress
 
 Goals:
 
@@ -120,7 +120,7 @@ Goals:
 
 
 ### ViSE
-Head: Ben Kantor
+Head: Mr. T
 
 Goals:
 
